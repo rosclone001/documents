@@ -1,5 +1,5 @@
 {
-  "lastest_version": "23.11.22",
+  "lastest_version": "24.11.22",
   "notes": "- Thêm tính năng kiểm tra phiên bản mới nhất\n- Fix bugs",
   "download_links": {
     "android": "https://raw.githubusercontent.com/rosclone001/documents/main/corp-checker/download/corp_checker.apk",
