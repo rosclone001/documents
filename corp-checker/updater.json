@@ -2,7 +2,7 @@
   "lastest_version": "23.11.22",
   "notes": "- Thêm tính năng kiểm tra phiên bản mới nhất\n- Fix bugs",
   "download_links": {
-    "android": "https://zingnews.vn/",
-    "mac": "https://stackoverflow.com/questions/70583362/why-is-http-request-on-flutter-for-macos-desktop-not-working-on-release"
+    "android": "https://raw.githubusercontent.com/rosclone001/documents/main/corp-checker/download/corp_checker.apk",
+    "mac": "https://raw.githubusercontent.com/rosclone001/documents/main/corp-checker/download/corp_checker.app.zip"
   }
 }
