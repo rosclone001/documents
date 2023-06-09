@@ -1,6 +1,6 @@
 {
-  "lastest_version": "24.11.22",
-  "notes": "- Fix bug cộng tiền group order",
+  "lastest_version": "09.06.2023",
+  "notes": "- Thêm pickup order",
   "download_links": {
     "android": "https://raw.githubusercontent.com/rosclone001/documents/main/corp-checker/download/corp_checker.apk",
     "mac": "https://raw.githubusercontent.com/rosclone001/documents/main/corp-checker/download/corp_checker.zip"
