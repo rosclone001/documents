@@ -1,8 +1,8 @@
 {
-  "lastest_version": "10.06.2023",
-  "notes": "- Thêm pickup order",
+  "lastest_version": "22.04.2024",
+  "notes": "- Fix bug chuyến Trans cancel cũng bị tính tiền",
   "download_links": {
-    "android": "https://raw.githubusercontent.com/rosclone001/documents/main/corp-checker/download/corp_v10.06.23.apk",
-    "mac": "https://raw.githubusercontent.com/rosclone001/documents/main/corp-checker/download/Corp_Checker_10.06.23.zip"
+    "android": "https://raw.githubusercontent.com/rosclone001/documents/main/corp-checker/download/v22042024.apk",
+    "mac": "https://raw.githubusercontent.com/rosclone001/documents/main/corp-checker/download/Corp_Checker_22.04.2024.zip"
   }
 }
